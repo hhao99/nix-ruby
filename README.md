@@ -1,4 +1,4 @@
-# nixpkgs-ruby
+# nix-ruby
 
 A Nix repository with all Ruby versions being kept up-to-date automatically.
 
